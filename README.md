@@ -33,3 +33,24 @@ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It co
 
 
 ![plot of chunk plot1](plot1.png) 
+
+
+### Plot 2
+
+
+![plot of chunk plot1](plot2.png)
+
+
+
+### Plot 3
+
+
+![plot of chunk plot1](plot3.png)
+
+
+### Plot 4
+
+
+![plot of chunk plot1](plot4.png)
+
+
