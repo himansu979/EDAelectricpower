@@ -1,0 +1,6 @@
+source("plot1.R")
+q()
+getwd()
+q()
+source("plot1.R")
+q()
